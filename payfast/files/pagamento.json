@@ -1,0 +1,15 @@
+{
+	"pagamento":{
+      "forma_de_pagamento": "cartao",
+      "valor": "32.83",
+      "moeda": "USD",
+      "descricao": "descrição do pagament 2"
+	},
+	"cartao": {
+		"numero": "1234567890123456",
+		"bandeira": "visa",
+		"ano_de_expiracao": "2017",
+		"mes_de_expiracao": "03",
+		"cvv": "123"
+  }
+}
