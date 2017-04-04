@@ -7,7 +7,7 @@ module.exports = function(app){
 
         req.pipe(fs.createWriteStream('files/'+filename))
         .on('finish', function(){
-            console.log("Arquivo escrito!");
+            console.log("Arquivo escrito!");    
             res.status(201).send();
         });
 
