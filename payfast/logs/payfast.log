@@ -2,3 +2,7 @@
 {"level":"info","message":"::ffff:127.0.0.1 - - [05/Apr/2017:01:13:54 +0000] \"GET /pagamentos/pagamento/1 HTTP/1.1\" 200 160\n","timestamp":"2017-04-05T01:13:54.227Z"}
 {"level":"info","message":"Consultando o pagamento: 1","timestamp":"2017-04-05T01:13:59.544Z"}
 {"level":"info","message":"::ffff:127.0.0.1 - - [05/Apr/2017:01:13:59 +0000] \"GET /pagamentos/pagamento/1 HTTP/1.1\" 200 160\n","timestamp":"2017-04-05T01:13:59.745Z"}
+{"level":"info","message":"Consultando o pagamento: 1","timestamp":"2017-04-05T02:25:54.667Z"}
+{"level":"info","message":"::1 - - [05/Apr/2017:02:25:55 +0000] \"GET /pagamentos/pagamento/1 HTTP/1.1\" 200 160\n","timestamp":"2017-04-05T02:25:55.958Z"}
+{"level":"info","message":"Consultando o pagamento: 1","timestamp":"2017-04-05T02:25:58.154Z"}
+{"level":"info","message":"::1 - - [05/Apr/2017:02:25:58 +0000] \"GET /pagamentos/pagamento/1 HTTP/1.1\" 200 160\n","timestamp":"2017-04-05T02:25:58.375Z"}
