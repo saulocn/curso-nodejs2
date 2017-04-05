@@ -1,0 +1,4 @@
+{"level":"info","message":"Consultando o pagamento: 1","timestamp":"2017-04-05T01:13:52.692Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [05/Apr/2017:01:13:54 +0000] \"GET /pagamentos/pagamento/1 HTTP/1.1\" 200 160\n","timestamp":"2017-04-05T01:13:54.227Z"}
+{"level":"info","message":"Consultando o pagamento: 1","timestamp":"2017-04-05T01:13:59.544Z"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [05/Apr/2017:01:13:59 +0000] \"GET /pagamentos/pagamento/1 HTTP/1.1\" 200 160\n","timestamp":"2017-04-05T01:13:59.745Z"}
